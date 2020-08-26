@@ -2,7 +2,7 @@ hello git!
 update 1!
 update 2!
 update 3!
-dev : git checkout -b dev
+dev : git checkout -b branch1
 create branch1;
 
 
